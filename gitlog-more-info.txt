@@ -1,0 +1,17 @@
+commit 0ac7c56973f3440ac819ef0f3be05b15ccca6742
+Author: WilliamCadenas21 <williamcadenas21@gmail.com>
+Date:   Thu Apr 9 14:17:21 2020 -0500
+
+    added file 6,7 and 4
+
+commit e37aac3ee40cff151495236e77f8e3822b7ed8cf
+Author: WilliamCadenas21 <williamcadenas21@gmail.com>
+Date:   Thu Apr 9 14:00:29 2020 -0500
+
+    commit 2
+
+commit 9baeb4078257bb1b4a341fdc4e008af1354ec172
+Author: WilliamCadenas21 <williamcadenas21@gmail.com>
+Date:   Thu Apr 9 13:56:46 2020 -0500
+
+    first commit
